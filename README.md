@@ -1,7 +1,14 @@
 # Ruby-hang-me
 A basic hangman game built with Ruby
 
+## Description
+- User type a letter to guess the hangman word
+- The game ends when you guess wrong 3 times
+- Users can type enter to end the game 
 
+
+
+### Usage 
 - Forking the project
 - Cloning the project to your local machine
 - `cd` into the project directory
@@ -21,6 +28,11 @@ A basic hangman game built with Ruby
 ### How to get started
 
 - run bin/main.rb
+
+### How to play
+- You have 3 chances
+- Try to guess the correct word by entering a letter.
+- The game ends when you have a correct guess or you when you guess wrong 3 times.
 
 ## Authors
 

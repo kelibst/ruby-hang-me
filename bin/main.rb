@@ -33,7 +33,7 @@ class Hangman
         end
       else
         @lives -= 1
-        puts " Sorry... You have #{@lives} left. Try again"
+        puts " Sorry... You have #{@lives} more chances. Try again"
         make_guess
       end
     else
